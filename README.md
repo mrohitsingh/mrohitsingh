@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@mrohitsingh] (https://rohitsingh.co)
+- 👋 Hi, I’m [@mrohitsingh](https://rohitsingh.co)
 - 👀 I’m interested in coding, blogging 
 - 🌱 I’m currently learning React.js, Next.js
 - 💞️ I’m looking to collaborate on Front-End
