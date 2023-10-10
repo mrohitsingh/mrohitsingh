@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@mrohitsingh](https://rohitsingh.co)
+- 👋 Hi, I’m [@mrohitsingh](https://rohitsingh.vercel.app)
 - 👀 I’m interested in [coding](https://geekshelper.com), [blogging](https://geekshelper.com)
 - 🌱 I’m currently learning React.js, Next.js
 - 💞️ I’m looking to collaborate on Front-End Development
